@@ -71,7 +71,7 @@ export function Projects() {
   return (
     <section
       id="projetos"
-      className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-900"
+      className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-800"
     >
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-10 sm:mb-12 lg:mb-16">
@@ -79,7 +79,7 @@ export function Projects() {
             Projetos
           </h2>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto px-4">
-            Seleção de projetos que demonstram minhas habilidades em engenharia e análise de dados
+            Seleção de projetos aplicados em cenários reais de dados e produto
           </p>
         </div>
 

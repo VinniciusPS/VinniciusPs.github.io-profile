@@ -17,14 +17,14 @@ export function Contact() {
   };
 
   return (
-    <section id="contato" className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-800">
+    <section id="contato" className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-900">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-10 sm:mb-12 lg:mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl mb-3 sm:mb-4 text-cyan-400">
-            Vamos Conversar
+            Contato
           </h2>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto px-4">
-            Estou aberto a novas oportunidades e colaborações. Entre em contato!
+            Será um prazer conhecê-lo(a) e compreender melhor suas necessidades.!
           </p>
         </div>
 

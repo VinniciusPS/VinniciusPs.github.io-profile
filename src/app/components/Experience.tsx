@@ -103,7 +103,7 @@ export function Experience() {
             Experiência Profissional
           </h2>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto px-4">
-            Trajetória contínua de aproximadamente 7 anos em dados e tecnologia
+            Trajetória contínua de 6+ anos em dados e tecnologia
           </p>
         </div>
 

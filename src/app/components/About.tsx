@@ -13,7 +13,7 @@ export function About() {
             </h2>
             <div className="space-y-4 text-base sm:text-lg text-slate-300 leading-relaxed text-justify">
               <p>
-                Profissional de dados com 6+ anos de experiência em gerar inteligência de negócios de alto impacto. Atuei em grandes projetos para clientes como o Sistema S, Secretarias de Saúde (SES) e Controladorias Gerais (CGE), trabalhando com times de excelência e lidando com dados críticos de diversos setores.
+                Profissional de dados com mais de 6 anos de experiência transformando dados em inteligência de negócio. Ao longo da carreira, atuei em projetos relevantes para organizações como o Sistema S, Secretarias de Saúde e Controladorias Gerais, colaborando com equipes de excelência e lidando com dados críticos de diferentes contextos e setores.
               </p>
               <p>
                 Além disso, atuei por cerca de dois anos como gerente de produto, liderando o lançamento de serviços voltados ao mercado brasileiro. Essa experiência me permitiu compreender de perto os desafios reais dos empreendedores — desde limitações de orçamento até a necessidade de gerar resultados concretos em pouco tempo. Hoje, levo esse olhar para cada projeto, buscando entender profundamente o contexto do cliente antes de propor qualquer solução tecnológica, garantindo que a tecnologia esteja a serviço do negócio, e não o contrário.

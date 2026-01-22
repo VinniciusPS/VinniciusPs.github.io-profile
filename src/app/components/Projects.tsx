@@ -6,31 +6,33 @@ export function Projects() {
     {
       id: 1,
       icon: Smartphone,
-      title: "App de Gestão de Insumos",
+      title: "Aplicativos de Dados",
       description:
-        "Aplicativo analítico para simulação de demanda e monitoramento de preços em tempo real.",
+        "Aplicativos analíticos customizados para otimizar suas decisões estratégicas.",
       image:
         "https://images.pexels.com/photos/17781649/pexels-photo-17781649.jpeg",
-      technologies: ["Python", "Streamlit", "Pandas", "APIs REST"],
+      technologies: ["Python", "Railway", "Pandas", "APIs REST"],
       highlights: [
         "Simulador de demanda baseado em histórico",
-        "Sistema de alertas de variação de preços",
-        "Integração com múltiplas bases de dados",
-        "Interface intuitiva para usuários não-técnicos",
+        "Sistema de alertas e monitoramento",
+        "Dashboards interativos",
+        "Sistemas de cadastro e consulta",
+        "Integração com seus sistemas existentes",
       ],
     },
     {
       id: 2,
       icon: TrendingUp,
-      title: "Dashboard Analítico Estratégico",
+      title: "Análises de Dados",
       description:
-        "Plataforma de BI para identificação de clientes e produtos que representam 80% do faturamento (Análise de Pareto).",
+        "Análises que revelam insights valiosos do seu negócio.",
       image:
         "https://img.freepik.com/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg?t=st=1768616761~exp=1768620361~hmac=18a79e08cac38c3f36d301f6da0d4a9e9ddb223e7a083679f05b9f9fe2110fda&w=1060",
-      technologies: ["Power BI", "SQL", "DAX", "Python"],
+      technologies: ["Power BI", "Excel", "SQL", "DAX", "Python"],
       highlights: [
+        "Análise exploratória de dados (EDA)",
+        "Teste e validação de hipóteses",
         "Análise de Pareto para produtos e clientes",
-        "KPIs de performance em tempo real",
         "Identificação de padrões de vendas",
         "Insights acionáveis para tomada de decisão",
       ],
@@ -38,15 +40,15 @@ export function Projects() {
     {
       id: 3,
       icon: Database,
-      title: "Pipeline ETL Multi-Fonte",
+      title: "Integração de Dados",
       description:
-        "Pipeline robusto integrando dados de WhatsApp, Bling ERP e Google Sheets em um data warehouse unificado.",
-      image: "https://images.pexels.com/photos/17781649/pexels-photo-17781649.jpeg",
+        "Pipeline de dados robusto que integram múltiplos registros em uma única fonte de verdade.",
+      image: "https://drive.google.com/thumbnail?id=143iEK35jW2wEMdY0FYqu0NoWGEbOjqV_",
       technologies: ["Python", "Apache Airflow", "PostgreSQL", "APIs"],
       highlights: [
-        "Extração automatizada de 3+ fontes de dados",
+        "Extração automatizada de múltiplas fontes de dados",
         "Transformação e limpeza de dados",
-        "Orquestração de workflows com Airflow",
+        "Orquestração de workflows",
         "Data warehouse centralizado e confiável",
       ],
     },
@@ -55,7 +57,7 @@ export function Projects() {
       icon: Activity,
       title: "Consultoria em Governança de Dados",
       description:
-        "Projeto de diagnóstico e implementação de governança de dados para Secretaria de Saúde.",
+        "Diagnóstico e implementação das melhores práticas para o seu negócio.",
       image:
         "https://img.freepik.com/free-photo/cropped-colleagues-generating-business-ideas_1098-19137.jpg?t=st=1768621171~exp=1768624771~hmac=81003407afe9a3a897e0744084159e89005153bb7694c42b05d0a68b21a5dd1b&w=1060",
       technologies: ["Data Governance", "SQL", "Python", "Documentation"],

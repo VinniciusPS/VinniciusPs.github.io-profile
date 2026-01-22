@@ -52,7 +52,7 @@ export function Contact() {
                 <div>
                   <h4 className="text-base sm:text-lg mb-1 text-slate-200">WhatsApp</h4>
                   <a href="https://wa.me/5521969210958" target="_blank" rel="noopener noreferrer" className="text-sm sm:text-base text-slate-300 hover:text-cyan-400 transition-colors">
-                    (21) 96921-0958
+                    Conversar via WhatsApp
                   </a>
                 </div>
               </div>

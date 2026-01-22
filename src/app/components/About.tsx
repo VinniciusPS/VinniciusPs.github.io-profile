@@ -1,7 +1,7 @@
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 
 const aboutImage = 
-  "https://media.licdn.com/dms/image/v2/D4D03AQEAcfm3TdyQPw/profile-displayphoto-crop_800_800/B4DZvgfuE5JMAM-/0/1768997975369?e=1770854400&v=beta&t=P4qKVIGCeMiVsUCowrrq8FzbKp4a8geHjOVrMvq5iKE"
+  "https://lh3.googleusercontent.com/d/1IZpHk1ebJQsvtsVTooVNaJ4FDgCok-DL"
 export function About() {
   return (
     <section id="sobre" className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-800">

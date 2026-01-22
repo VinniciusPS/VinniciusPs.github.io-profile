@@ -128,7 +128,7 @@ export function Experience() {
                         {exp.company}
                       </p>
                     </div>
-                    <span className="flex-shrink-0 text-sm text-slate-400 bg-slate-900 px-3 py-1.5 rounded-full border border-slate-700">
+                    <span className="self-start flex-shrink-0 text-sm text-slate-400 bg-slate-900 px-3 py-1.5 rounded-full border border-slate-700">
                       {exp.period}
                     </span>
                   </div>

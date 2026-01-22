@@ -24,7 +24,7 @@ export function Contact() {
             Contato
           </h2>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto px-4">
-            Será um prazer conhecê-lo(a) e compreender melhor suas necessidades.!
+            Será um prazer conhecê-lo(a) e contribuir para transformar seus objetivos em resultados
           </p>
         </div>
 

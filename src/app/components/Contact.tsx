@@ -17,14 +17,14 @@ export function Contact() {
   };
 
   return (
-    <section id="contato" className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-800">
+    <section id="contato" className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-900">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-10 sm:mb-12 lg:mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl mb-3 sm:mb-4 text-cyan-400">
-            Vamos Conversar
+            Contato
           </h2>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto px-4">
-            Estou aberto a novas oportunidades e colaborações. Entre em contato!
+            Será um prazer conhecê-lo(a) e contribuir para transformar seus objetivos em resultados
           </p>
         </div>
 
@@ -52,7 +52,7 @@ export function Contact() {
                 <div>
                   <h4 className="text-base sm:text-lg mb-1 text-slate-200">WhatsApp</h4>
                   <a href="https://wa.me/5521969210958" target="_blank" rel="noopener noreferrer" className="text-sm sm:text-base text-slate-300 hover:text-cyan-400 transition-colors">
-                    (21) 96921-0958
+                    Conversar via WhatsApp
                   </a>
                 </div>
               </div>

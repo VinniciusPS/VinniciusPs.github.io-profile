@@ -26,7 +26,7 @@ export function Education() {
             Educação
           </h2>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto px-4">
-            Formação acadêmica e educação continuada em dados e tecnologia
+            Formação acadêmica e educação continuada em tecnologia
           </p>
         </div>
 

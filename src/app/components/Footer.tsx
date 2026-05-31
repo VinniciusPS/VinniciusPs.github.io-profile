@@ -4,7 +4,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto">
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="text-lg sm:text-xl mb-3 sm:mb-4 text-cyan-400 font-semibold">Vinnícius Pereira</h3>
+            <h3 className="text-lg sm:text-xl mb-3 sm:mb-4 text-cyan-400 font-semibold">Vinnicius Silva</h3>
             <p className="text-sm sm:text-base text-slate-400 leading-relaxed">
               Engenheiro de Dados especializado em transformar dados em inteligência de negócio.
             </p>
@@ -58,7 +58,7 @@ export function Footer() {
         </div>
         
         <div className="border-t border-slate-800 pt-6 sm:pt-8 text-center text-sm sm:text-base text-slate-400">
-          <p>&copy; {new Date().getFullYear()} Vinnícius Pereira. Todos os direitos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Vinnicius Silva. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
